@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Punnya P Gaur(PP)</h1>
 <h3 align="center">A Flutter Android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaur4814&label=Profile%20views&color=0e75b6&style=flat" alt="gaur4814" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=punnya-p-gaur&label=Profile%20views&color=0e75b6&style=flat" alt="punnya-p-gaur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaur4814" alt="gaur4814" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punnya-p-gaur" alt="punnya-p-gaur" /></a> </p>
 
 - 🌱 I’m currently learning **Courses..**
 
@@ -23,8 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaur4814&show_icons=true&locale=en&layout=compact" alt="gaur4814" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punnya-p-gaur&show_icons=true&locale=en&layout=compact" alt="punnya-p-gaur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaur4814&show_icons=true&locale=en" alt="gaur4814" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punnya-p-gaur&show_icons=true&locale=en" alt="punnya-p-gaur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaur4814&" alt="gaur4814" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punnya-p-gaur&" alt="punnya-p-gaur" /></p>
